@@ -1,0 +1,201 @@
+﻿,title,company,location,summary,skills
+0,Data Scientist ,ABC Corp,Pune,"We are looking for a Data Scientist with skills in Python, SQL, Excel","python,sql,excel"
+1,Junior Data Analyst,XYZ Analytics,Mumbai,"We are looking for a Data Scientist with skills in SQL, Tableau","sql,tableau"
+2,Python devloper,TechAI,Bangalore,"We are looking for a Data Scientist with skills in Excel, Machine Learning","excel,machine learning"
+3,Machine Learning Engineer,iGAP,Chennai,"We are looking for a Data Scientist with skills in Tableau, Machine Learning, NLP","machine learning,nlp,tableau"
+4,Data Engineer,Edulyt india,Hyderabad,"We are looking for a Data Scientist with skills in Machine Learning, NLP, Deep Learning","machine learning,nlp,deep learning"
+5,AI Research Intern,TCS,Delhi,"We are looking for a Data Scientist with skills in NLP, Deep Learning, Power BI","nlp,deep learning"
+6,Powre BI Devloper,Infosys,Kolhapur,"We are looking for a Data Scientist with skills in ML, Power BI, Pandas",
+7,Bussiness Analyst,Google,Noida,"We are looking for a Data Scientist with skills in Power BI, Pandas, NumPy",
+8,Gen AI devloper,Microsoft,Kolkata,"We are looking for a Data Scientist with skills in Pandas, NumPy",
+9,Other,ABC Corp0,Other,We are looking for a Data Scientist with skills in NumPy,
+10,SQL devloper,ABC Corp1,Pune,"We are looking for a Data Scientist with skills in Python, SQL, Excel","python,sql,excel"
+11,Data Analyst,ABC Corp2,Mumbai,"We are looking for a Data Scientist with skills in SQL, Excel, Tableau","sql,excel,tableau"
+12,Python devloper,ABC Corp3,Bangalore,"We are looking for a Data Scientist with skills in Excel, Machine Learning","excel,machine learning"
+13,Machine Learning Engineer,ABC Corp4,Chennai,"We are looking for a Data Scientist with skills in Tableau, Machine Learning, NLP","machine learning,nlp,tableau"
+14,Data Engineer,ABC Corp5,Hyderabad,"We are looking for a Data Scientist with skills in Machine Learning, NLP, Deep Learning","machine learning,nlp,deep learning"
+15,AI Research Intern,ABC Corp6,Delhi,"We are looking for a Data Scientist with skills in NLP, Deep Learning, Power BI","nlp,deep learning"
+16,Powre BI Devloper,ABC Corp7,Kolhapur,"We are looking for a Data Scientist with skills in ML, Power BI, Pandas",
+17,Bussiness Analyst,ABC Corp8,Noida,"We are looking for a Data Scientist with skills in Power BI, Pandas, NumPy",
+18,Gen AI devloper,ABC Corp9,Kolkata,"We are looking for a Data Scientist with skills in Pandas, NumPy",
+19,Junior Data Analyst0,XYZ Analytics0,Other,We are looking for a Data Scientist with skills in NumPy,
+20,Junior Data Analyst1,ABC Corp,Pune,"We are looking for a Data Scientist with skills in Python, SQL, Excel","python,sql,excel"
+21,Junior Data Analyst2,XYZ Analytics,Mumbai,"We are looking for a Data Scientist with skills in SQL, Excel, Tableau","sql,excel,tableau"
+22,Junior Data Analyst3,TechAI,Bangalore,"We are looking for a Data Scientist with skills in Excel, Machine Learning","excel,machine learning"
+23,Junior Data Analyst4,iGAP,Chennai,"We are looking for a Data Scientist with skills in Tableau, Machine Learning, NLP","machine learning,nlp,tableau"
+24,Junior Data Analyst5,Edulyt india,Hyderabad,"We are looking for a Data Scientist with skills in Machine Learning, NLP, Deep Learning","machine learning,nlp,deep learning"
+25,Junior Data Analyst6,TCS,Delhi,"We are looking for a Data Scientist with skills in NLP, Deep Learning, Power BI","nlp,deep learning"
+26,Junior Data Analyst7,Infosys,Kolhapur,"We are looking for a Data Scientist with skills in ML, Power BI, Pandas",
+27,Junior Data Analyst8,Google,Noida,"We are looking for a Data Scientist with skills in Power BI, Pandas, NumPy",
+28,Junior Data Analyst9,Microsoft,Kolkata,"We are looking for a Data Scientist with skills in Pandas, NumPy",
+29,Python devloper0,ABC Corp0,Other,We are looking for a Data Scientist with skills in NumPy,
+30,Python devloper1,ABC Corp1,Pune,"We are looking for a Data Scientist with skills in Python, SQL, Excel","python,sql,excel"
+31,Python devloper2,ABC Corp2,Mumbai,"We are looking for a Data Scientist with skills in SQL, Excel, Tableau","sql,excel,tableau"
+32,Python devloper3,ABC Corp3,Bangalore,"We are looking for a Data Scientist with skills in Excel, Machine Learning","excel,machine learning"
+33,Python devloper4,ABC Corp4,Chennai,"We are looking for a Data Scientist with skills in Tableau, Machine Learning, NLP","machine learning,nlp,tableau"
+34,Python devloper5,ABC Corp5,Hyderabad,"We are looking for a Data Scientist with skills in Machine Learning, NLP, Deep Learning","machine learning,nlp,deep learning"
+35,Python devloper6,ABC Corp6,Delhi,"We are looking for a Data Scientist with skills in NLP, Deep Learning, Power BI","nlp,deep learning"
+36,Python devloper7,ABC Corp7,Kolhapur,"We are looking for a Data Scientist with skills in ML, Power BI, Pandas",
+37,Python devloper8,ABC Corp8,Noida,"We are looking for a Data Scientist with skills in Power BI, Pandas, NumPy",
+38,Python devloper9,ABC Corp9,Kolkata,"We are looking for a Data Scientist with skills in Pandas, NumPy",
+39,Machine Learning Engineer0,XYZ Analytics0,Other,We are looking for a Data Scientist with skills in NumPy,
+40,Machine Learning Engineer1,ABC Corp,Pune,"We are looking for a Data Scientist with skills in Python, SQL, Excel","python,sql,excel"
+41,Machine Learning Engineer2,XYZ Analytics,Mumbai,"We are looking for a Data Scientist with skills in SQL, Excel, Tableau","sql,excel,tableau"
+42,Machine Learning Engineer3,TechAI,Bangalore,"We are looking for a Data Scientist with skills in Excel, Machine Learning","excel,machine learning"
+43,Machine Learning Engineer4,iGAP,Chennai,"We are looking for a Data Scientist with skills in Tableau, Machine Learning, NLP","machine learning,nlp,tableau"
+44,Machine Learning Engineer5,Edulyt india,Hyderabad,"We are looking for a Data Scientist with skills in Machine Learning, NLP, Deep Learning","machine learning,nlp,deep learning"
+45,Machine Learning Engineer6,TCS,Delhi,"We are looking for a Data Scientist with skills in NLP, Deep Learning, Power BI","nlp,deep learning"
+46,Machine Learning Engineer7,Infosys,Kolhapur,"We are looking for a Data Scientist with skills in ML, Power BI, Pandas",
+47,Machine Learning Engineer8,Google,Noida,"We are looking for a Data Scientist with skills in Power BI, Pandas, NumPy",
+48,Machine Learning Engineer9,Microsoft,Kolkata,"We are looking for a Data Scientist with skills in Pandas, NumPy",
+49,Data Engineer0,ABC Corp0,Other,We are looking for a Data Scientist with skills in NumPy,
+50,Data Engineer1,ABC Corp1,Pune,"We are looking for a Data Scientist with skills in Python, SQL, Excel","python,sql,excel"
+51,Data Engineer2,ABC Corp2,Mumbai,"We are looking for a Data Scientist with skills in SQL, Excel, Tableau","sql,excel,tableau"
+52,Data Engineer3,ABC Corp3,Bangalore,"We are looking for a Data Scientist with skills in Excel, Machine Learning","excel,machine learning"
+53,Data Engineer4,ABC Corp4,Chennai,"We are looking for a Data Scientist with skills in Tableau, Machine Learning, NLP","machine learning,nlp,tableau"
+54,Data Engineer5,ABC Corp5,Hyderabad,"We are looking for a Data Scientist with skills in Machine Learning, NLP, Deep Learning","machine learning,nlp,deep learning"
+55,Data Engineer6,ABC Corp6,Delhi,"We are looking for a Data Scientist with skills in NLP, Deep Learning, Power BI","nlp,deep learning"
+56,Data Engineer7,ABC Corp7,Kolhapur,"We are looking for a Data Scientist with skills in ML, Power BI, Pandas",
+57,Data Engineer8,ABC Corp8,Noida,"We are looking for a Data Scientist with skills in Power BI, Pandas, NumPy",
+58,Data Engineer9,ABC Corp9,Kolkata,"We are looking for a Data Scientist with skills in Pandas, NumPy",
+59,AI Research Intern0,XYZ Analytics0,Other,We are looking for a Data Scientist with skills in NumPy,
+60,AI Research Intern1,ABC Corp,Pune,"We are looking for a Data Scientist with skills in Python, SQL, Excel","python,sql,excel"
+61,AI Research Intern2,XYZ Analytics,Mumbai,"We are looking for a Data Scientist with skills in SQL, Excel, Tableau","sql,excel,tableau"
+62,AI Research Intern3,TechAI,Bangalore,"We are looking for a Data Scientist with skills in Excel, Machine Learning","excel,machine learning"
+63,AI Research Intern4,iGAP,Chennai,"We are looking for a Data Scientist with skills in Tableau, Machine Learning, NLP","machine learning,nlp,tableau"
+64,AI Research Intern5,Edulyt india,Hyderabad,"We are looking for a Data Scientist with skills in Machine Learning, NLP, Deep Learning","machine learning,nlp,deep learning"
+65,AI Research Intern6,TCS,Delhi,"We are looking for a Data Scientist with skills in NLP, Deep Learning, Power BI","nlp,deep learning"
+66,AI Research Intern7,Infosys,Kolhapur,"We are looking for a Data Scientist with skills in ML, Power BI, Pandas",
+67,AI Research Intern8,Google,Noida,"We are looking for a Data Scientist with skills in Power BI, Pandas, NumPy",
+68,AI Research Intern9,Microsoft,Kolkata,"We are looking for a Data Scientist with skills in Pandas, NumPy",
+69,Powre BI Devloper0,ABC Corp0,Other,We are looking for a Data Scientist with skills in NumPy,
+70,Powre BI Devloper1,ABC Corp1,Pune,"We are looking for a Data Scientist with skills in Python, SQL, Excel","python,sql,excel"
+71,Powre BI Devloper2,ABC Corp2,Mumbai,"We are looking for a Data Scientist with skills in SQL, Excel, Tableau","sql,excel,tableau"
+72,Powre BI Devloper3,ABC Corp3,Bangalore,"We are looking for a Data Scientist with skills in Excel, Machine Learning","excel,machine learning"
+73,Powre BI Devloper4,ABC Corp4,Chennai,"We are looking for a Data Scientist with skills in Tableau, Machine Learning, NLP","machine learning,nlp,tableau"
+74,Powre BI Devloper5,ABC Corp5,Hyderabad,"We are looking for a Data Scientist with skills in Machine Learning, NLP, Deep Learning","machine learning,nlp,deep learning"
+75,Powre BI Devloper6,ABC Corp6,Delhi,"We are looking for a Data Scientist with skills in NLP, Deep Learning, Power BI","nlp,deep learning"
+76,Powre BI Devloper7,ABC Corp7,Kolhapur,"We are looking for a Data Scientist with skills in ML, Power BI, Pandas",
+77,Powre BI Devloper8,ABC Corp8,Noida,"We are looking for a Data Scientist with skills in Power BI, Pandas, NumPy",
+78,Powre BI Devloper9,ABC Corp9,Kolkata,"We are looking for a Data Scientist with skills in Pandas, NumPy",
+79,Bussiness Analyst0,XYZ Analytics0,Other,We are looking for a Data Scientist with skills in NumPy,
+80,Bussiness Analyst1,ABC Corp,Pune,"We are looking for a Data Scientist with skills in Python, SQL, Excel","python,sql,excel"
+81,Bussiness Analyst2,XYZ Analytics,Mumbai,"We are looking for a Data Scientist with skills in SQL, Excel, Tableau","sql,excel,tableau"
+82,Bussiness Analyst3,TechAI,Bangalore,"We are looking for a Data Scientist with skills in Excel, Machine Learning","excel,machine learning"
+83,Bussiness Analyst4,iGAP,Chennai,"We are looking for a Data Scientist with skills in Tableau, Machine Learning, NLP","machine learning,nlp,tableau"
+84,Bussiness Analyst5,Edulyt india,Hyderabad,"We are looking for a Data Scientist with skills in Machine Learning, NLP, Deep Learning","machine learning,nlp,deep learning"
+85,Bussiness Analyst6,TCS,Delhi,"We are looking for a Data Scientist with skills in NLP, Deep Learning, Power BI","nlp,deep learning"
+86,Bussiness Analyst7,Infosys,Kolhapur,"We are looking for a Data Scientist with skills in ML, Power BI, Pandas",
+87,Bussiness Analyst8,Google,Noida,"We are looking for a Data Scientist with skills in Power BI, Pandas, NumPy",
+88,Bussiness Analyst9,Microsoft,Kolkata,"We are looking for a Data Scientist with skills in Pandas, NumPy",
+89,Gen AI devloper0,ABC Corp0,Other,We are looking for a Data Scientist with skills in NumPy,
+90,Gen AI devloper1,ABC Corp1,Pune,"We are looking for a Data Scientist with skills in Python, SQL, Excel","python,sql,excel"
+91,Gen AI devloper2,ABC Corp2,Mumbai,"We are looking for a Data Scientist with skills in SQL, Excel, Tableau","sql,excel,tableau"
+92,Gen AI devloper3,ABC Corp3,Bangalore,"We are looking for a Data Scientist with skills in Excel, Machine Learning","excel,machine learning"
+93,Gen AI devloper4,ABC Corp4,Chennai,"We are looking for a Data Scientist with skills in Tableau, Machine Learning, NLP","machine learning,nlp,tableau"
+94,Gen AI devloper5,ABC Corp5,Hyderabad,"We are looking for a Data Scientist with skills in Machine Learning, NLP, Deep Learning","machine learning,nlp,deep learning"
+95,Gen AI devloper6,ABC Corp6,Delhi,"We are looking for a Data Scientist with skills in NLP, Deep Learning, Power BI","nlp,deep learning"
+96,Gen AI devloper7,ABC Corp7,Kolhapur,"We are looking for a Data Scientist with skills in ML, Power BI, Pandas",
+97,Gen AI devloper8,ABC Corp8,Noida,"We are looking for a Data Scientist with skills in Power BI, Pandas, NumPy",
+98,Gen AI devloper9,ABC Corp9,Kolkata,"We are looking for a Data Scientist with skills in Pandas, NumPy",
+99,Other0,XYZ Analytics0,Other,We are looking for a Data Scientist with skills in NumPy,
+100,Other1,ABC Corp,Pune,"We are looking for a Data Scientist with skills in Python, SQL, Excel","python,sql,excel"
+101,Other2,XYZ Analytics,Mumbai,"We are looking for a Data Scientist with skills in SQL, Excel, Tableau","sql,excel,tableau"
+102,Other3,TechAI,Bangalore,"We are looking for a Data Scientist with skills in Excel, Machine Learning","excel,machine learning"
+103,Other4,iGAP,Chennai,"We are looking for a Data Scientist with skills in Tableau, Machine Learning, NLP","machine learning,nlp,tableau"
+104,Other5,Edulyt india,Hyderabad,"We are looking for a Data Scientist with skills in Machine Learning, NLP, Deep Learning","machine learning,nlp,deep learning"
+105,Other6,TCS,Delhi,"We are looking for a Data Scientist with skills in NLP, Deep Learning, Power BI","nlp,deep learning"
+106,Other7,Infosys,Kolhapur,"We are looking for a Data Scientist with skills in ML, Power BI, Pandas",
+107,Other8,Google,Noida,"We are looking for a Data Scientist with skills in Power BI, Pandas, NumPy",
+108,Other9,Microsoft,Kolkata,"We are looking for a Data Scientist with skills in Pandas, NumPy",
+109,SQL devloper0,ABC Corp0,Other,We are looking for a Data Scientist with skills in NumPy,
+110,SQL devloper1,ABC Corp1,Pune,"We are looking for a Data Scientist with skills in Python, SQL, Excel","python,sql,excel"
+111,SQL devloper2,ABC Corp2,Mumbai,"We are looking for a Data Scientist with skills in SQL, Excel, Tableau","sql,excel,tableau"
+112,SQL devloper3,ABC Corp3,Bangalore,"We are looking for a Data Scientist with skills in Excel, Machine Learning","excel,machine learning"
+113,SQL devloper4,ABC Corp4,Chennai,"We are looking for a Data Scientist with skills in Tableau, Machine Learning, NLP","machine learning,nlp,tableau"
+114,SQL devloper5,ABC Corp5,Hyderabad,"We are looking for a Data Scientist with skills in Machine Learning, NLP, Deep Learning","machine learning,nlp,deep learning"
+115,SQL devloper6,ABC Corp6,Delhi,"We are looking for a Data Scientist with skills in NLP, Deep Learning, Power BI","nlp,deep learning"
+116,SQL devloper7,ABC Corp7,Kolhapur,"We are looking for a Data Scientist with skills in ML, Power BI, Pandas",
+117,SQL devloper8,ABC Corp8,Noida,"We are looking for a Data Scientist with skills in Power BI, Pandas, NumPy",
+118,SQL devloper9,ABC Corp9,Kolkata,"We are looking for a Data Scientist with skills in Pandas, NumPy",
+119,Data Analyst0,XYZ Analytics0,Other,We are looking for a Data Scientist with skills in NumPy,
+120,Data Analyst1,ABC Corp,Pune,"We are looking for a Data Scientist with skills in Python, SQL, Excel","python,sql,excel"
+121,Data Analyst2,XYZ Analytics,Mumbai,"We are looking for a Data Scientist with skills in SQL, Excel, Tableau","sql,excel,tableau"
+122,Data Analyst3,TechAI,Bangalore,"We are looking for a Data Scientist with skills in Excel, Machine Learning","excel,machine learning"
+123,Data Analyst4,iGAP,Chennai,"We are looking for a Data Scientist with skills in Tableau, Machine Learning, NLP","machine learning,nlp,tableau"
+124,Data Analyst5,Edulyt india,Hyderabad,"We are looking for a Data Scientist with skills in Machine Learning, NLP, Deep Learning","machine learning,nlp,deep learning"
+125,Data Analyst6,TCS,Delhi,"We are looking for a Data Scientist with skills in NLP, Deep Learning, Power BI","nlp,deep learning"
+126,Data Analyst7,Infosys,Kolhapur,"We are looking for a Data Scientist with skills in ML, Power BI, Pandas",
+127,Data Analyst8,Google,Noida,"We are looking for a Data Scientist with skills in Power BI, Pandas, NumPy",
+128,Data Analyst9,Microsoft,Kolkata,"We are looking for a Data Scientist with skills in Pandas, NumPy",
+129,Python devloper0,ABC Corp0,Other,We are looking for a Data Scientist with skills in NumPy,
+130,Python devloper1,ABC Corp1,Pune,"We are looking for a Data Scientist with skills in Python, SQL, Excel","python,sql,excel"
+131,Python devloper2,ABC Corp2,Mumbai,"We are looking for a Data Scientist with skills in SQL, Excel, Tableau","sql,excel,tableau"
+132,Python devloper3,ABC Corp3,Bangalore,"We are looking for a Data Scientist with skills in Excel, Machine Learning","excel,machine learning"
+133,Python devloper4,ABC Corp4,Chennai,"We are looking for a Data Scientist with skills in Tableau, Machine Learning, NLP","machine learning,nlp,tableau"
+134,Python devloper5,ABC Corp5,Hyderabad,"We are looking for a Data Scientist with skills in Machine Learning, NLP, Deep Learning","machine learning,nlp,deep learning"
+135,Python devloper6,ABC Corp6,Delhi,"We are looking for a Data Scientist with skills in NLP, Deep Learning, Power BI","nlp,deep learning"
+136,Python devloper7,ABC Corp7,Kolhapur,"We are looking for a Data Scientist with skills in ML, Power BI, Pandas",
+137,Python devloper8,ABC Corp8,Noida,"We are looking for a Data Scientist with skills in Power BI, Pandas, NumPy",
+138,Python devloper9,ABC Corp9,Kolkata,"We are looking for a Data Scientist with skills in Pandas, NumPy",
+139,Machine Learning Engineer0,XYZ Analytics0,Other,We are looking for a Data Scientist with skills in NumPy,
+140,Machine Learning Engineer1,ABC Corp,Pune,"We are looking for a Data Scientist with skills in Python, SQL, Excel","python,sql,excel"
+141,Machine Learning Engineer2,XYZ Analytics,Mumbai,"We are looking for a Data Scientist with skills in SQL, Excel, Tableau","sql,excel,tableau"
+142,Machine Learning Engineer3,TechAI,Bangalore,"We are looking for a Data Scientist with skills in Excel, Machine Learning","excel,machine learning"
+143,Machine Learning Engineer4,iGAP,Chennai,"We are looking for a Data Scientist with skills in Tableau, Machine Learning, NLP","machine learning,nlp,tableau"
+144,Machine Learning Engineer5,Edulyt india,Hyderabad,"We are looking for a Data Scientist with skills in Machine Learning, NLP, Deep Learning","machine learning,nlp,deep learning"
+145,Machine Learning Engineer6,TCS,Delhi,"We are looking for a Data Scientist with skills in NLP, Deep Learning, Power BI","nlp,deep learning"
+146,Machine Learning Engineer7,Infosys,Kolhapur,"We are looking for a Data Scientist with skills in ML, Power BI, Pandas",
+147,Machine Learning Engineer8,Google,Noida,"We are looking for a Data Scientist with skills in Power BI, Pandas, NumPy",
+148,Machine Learning Engineer9,Microsoft,Kolkata,"We are looking for a Data Scientist with skills in Pandas, NumPy",
+149,Data Engineer0,ABC Corp0,Other,We are looking for a Data Scientist with skills in NumPy,
+150,Data Engineer1,ABC Corp1,Pune,"We are looking for a Data Scientist with skills in Python, SQL, Excel","python,sql,excel"
+151,Data Engineer2,ABC Corp2,Mumbai,"We are looking for a Data Scientist with skills in SQL, Excel, Tableau","sql,excel,tableau"
+152,Data Engineer3,ABC Corp3,Bangalore,"We are looking for a Data Scientist with skills in Excel, Machine Learning","excel,machine learning"
+153,Data Engineer4,ABC Corp4,Chennai,"We are looking for a Data Scientist with skills in Tableau, Machine Learning, NLP","machine learning,nlp,tableau"
+154,Data Engineer5,ABC Corp5,Hyderabad,"We are looking for a Data Scientist with skills in Machine Learning, NLP, Deep Learning","machine learning,nlp,deep learning"
+155,Data Engineer6,ABC Corp6,Delhi,"We are looking for a Data Scientist with skills in NLP, Deep Learning, Power BI","nlp,deep learning"
+156,Data Engineer7,ABC Corp7,Kolhapur,"We are looking for a Data Scientist with skills in ML, Power BI, Pandas",
+157,Data Engineer8,ABC Corp8,Noida,"We are looking for a Data Scientist with skills in Power BI, Pandas, NumPy",
+158,Data Engineer9,ABC Corp9,Kolkata,"We are looking for a Data Scientist with skills in Pandas, NumPy",
+159,AI Research Intern0,XYZ Analytics0,Other,We are looking for a Data Scientist with skills in NumPy,
+160,AI Research Intern1,ABC Corp,Pune,"We are looking for a Data Scientist with skills in Python, SQL, Excel","python,sql,excel"
+161,AI Research Intern2,XYZ Analytics,Mumbai,"We are looking for a Data Scientist with skills in SQL, Excel, Tableau","sql,excel,tableau"
+162,AI Research Intern3,TechAI,Bangalore,"We are looking for a Data Scientist with skills in Excel, Machine Learning","excel,machine learning"
+163,AI Research Intern4,iGAP,Chennai,"We are looking for a Data Scientist with skills in Tableau, Machine Learning, NLP","machine learning,nlp,tableau"
+164,AI Research Intern5,Edulyt india,Hyderabad,"We are looking for a Data Scientist with skills in Machine Learning, NLP, Deep Learning","machine learning,nlp,deep learning"
+165,AI Research Intern6,TCS,Delhi,"We are looking for a Data Scientist with skills in NLP, Deep Learning, Power BI","nlp,deep learning"
+166,AI Research Intern7,Infosys,Kolhapur,"We are looking for a Data Scientist with skills in ML, Power BI, Pandas",
+167,AI Research Intern8,Google,Noida,"We are looking for a Data Scientist with skills in Power BI, Pandas, NumPy",
+168,AI Research Intern9,Microsoft,Kolkata,"We are looking for a Data Scientist with skills in Pandas, NumPy",
+169,Powre BI Devloper0,ABC Corp0,Other,We are looking for a Data Scientist with skills in NumPy,
+170,Powre BI Devloper1,ABC Corp1,Pune,"We are looking for a Data Scientist with skills in Python, SQL, Excel","python,sql,excel"
+171,Powre BI Devloper2,ABC Corp2,Mumbai,"We are looking for a Data Scientist with skills in SQL, Excel, Tableau","sql,excel,tableau"
+172,Powre BI Devloper3,ABC Corp3,Bangalore,"We are looking for a Data Scientist with skills in Excel, Machine Learning","excel,machine learning"
+173,Powre BI Devloper4,ABC Corp4,Chennai,"We are looking for a Data Scientist with skills in Tableau, Machine Learning, NLP","machine learning,nlp,tableau"
+174,Powre BI Devloper5,ABC Corp5,Hyderabad,"We are looking for a Data Scientist with skills in Machine Learning, NLP, Deep Learning","machine learning,nlp,deep learning"
+175,Powre BI Devloper6,ABC Corp6,Delhi,"We are looking for a Data Scientist with skills in NLP, Deep Learning, Power BI","nlp,deep learning"
+176,Powre BI Devloper7,ABC Corp7,Kolhapur,"We are looking for a Data Scientist with skills in ML, Power BI, Pandas",
+177,Powre BI Devloper8,ABC Corp8,Noida,"We are looking for a Data Scientist with skills in Power BI, Pandas, NumPy",
+178,Powre BI Devloper9,ABC Corp9,Kolkata,"We are looking for a Data Scientist with skills in Pandas, NumPy",
+179,Bussiness Analyst0,XYZ Analytics0,Other,We are looking for a Data Scientist with skills in NumPy,
+180,Bussiness Analyst1,ABC Corp,Pune,"We are looking for a Data Scientist with skills in Python, SQL, Excel","python,sql,excel"
+181,Bussiness Analyst2,XYZ Analytics,Mumbai,"We are looking for a Data Scientist with skills in SQL, Excel, Tableau","sql,excel,tableau"
+182,Bussiness Analyst3,TechAI,Bangalore,"We are looking for a Data Scientist with skills in Excel, Machine Learning","excel,machine learning"
+183,Bussiness Analyst4,iGAP,Chennai,"We are looking for a Data Scientist with skills in Tableau, Machine Learning, NLP","machine learning,nlp,tableau"
+184,Bussiness Analyst5,Edulyt india,Hyderabad,"We are looking for a Data Scientist with skills in Machine Learning, NLP, Deep Learning","machine learning,nlp,deep learning"
+185,Bussiness Analyst6,TCS,Delhi,"We are looking for a Data Scientist with skills in NLP, Deep Learning, Power BI","nlp,deep learning"
+186,Bussiness Analyst7,Infosys,Kolhapur,"We are looking for a Data Scientist with skills in ML, Power BI, Pandas",
+187,Bussiness Analyst8,Google,Noida,"We are looking for a Data Scientist with skills in Power BI, Pandas, NumPy",
+188,Bussiness Analyst9,Microsoft,Kolkata,"We are looking for a Data Scientist with skills in Pandas, NumPy",
+189,Gen AI devloper0,ABC Corp0,Other,We are looking for a Data Scientist with skills in NumPy,
+190,Gen AI devloper1,ABC Corp1,Pune,"We are looking for a Data Scientist with skills in Python, SQL, Excel","python,sql,excel"
+191,Gen AI devloper2,ABC Corp2,Mumbai,"We are looking for a Data Scientist with skills in SQL, Excel, Tableau","sql,excel,tableau"
+192,Gen AI devloper3,ABC Corp3,Bangalore,"We are looking for a Data Scientist with skills in Excel, Machine Learning","excel,machine learning"
+193,Gen AI devloper4,ABC Corp4,Chennai,"We are looking for a Data Scientist with skills in Tableau, Machine Learning, NLP","machine learning,nlp,tableau"
+194,Gen AI devloper5,ABC Corp5,Hyderabad,"We are looking for a Data Scientist with skills in Machine Learning, NLP, Deep Learning","machine learning,nlp,deep learning"
+195,Gen AI devloper6,ABC Corp6,Delhi,"We are looking for a Data Scientist with skills in NLP, Deep Learning, Power BI","nlp,deep learning"
+196,Gen AI devloper7,ABC Corp7,Kolhapur,"We are looking for a Data Scientist with skills in ML, Power BI, Pandas",
+197,Gen AI devloper8,ABC Corp8,Noida,"We are looking for a Data Scientist with skills in Power BI, Pandas, NumPy",
+198,Gen AI devloper9,ABC Corp9,Kolkata,"We are looking for a Data Scientist with skills in Pandas, NumPy",
+199,Junior Data Analyst00,XYZ Analytics0,Other,We are looking for a Data Scientist with skills in NumPy,
